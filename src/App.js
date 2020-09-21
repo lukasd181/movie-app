@@ -129,7 +129,6 @@ export default function App() {
         itemClass="page-item"
         linkClass="page-link"
       />
-      {/* <Pagi totalPosts={totalPosts} changePage={changePage} /> */}
     </div>
   );
 }
